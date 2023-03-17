@@ -3,6 +3,7 @@
 In this project i've done User analysis which is the process by which we track how users engage and interact with our digital product in an attempt to derive business insights for marketing, product & development teams.
 
 PROBLEM STATEMENT
+
 A. Marketing: The marketing team wants to launch some campaigns, and they need your help with the following
    1. Rewarding Most Loyal Users
    2. Remind Inactive Users to Start Posting
